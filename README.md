@@ -17,3 +17,13 @@
 
 - **Delphi**: The main programming language used to build the application.
 - **SQL Server**: A relational database for securely storing client, employee, and service data.
+
+___
+
+<img align="center" alt="Italo-Login" style="border-radius:50px;" src="https://i.ibb.co/mGR067x/login-screedn.png">
+<img align="center" alt="Italo-Home" style="border-radius:50px;" src="https://i.ibb.co/dk73JL9/home-screen.png">
+<img align="center" alt="Italo-Clients" style="border-radius:50px;" src="https://i.ibb.co/7ky5qvY/Clients-management-screen.png">
+<img align="center" alt="Italo-Agenda" style="border-radius:50px;" src="https://i.ibb.co/16VP7x0/Appointment-Scheduling-screen.png">
+
+
+
